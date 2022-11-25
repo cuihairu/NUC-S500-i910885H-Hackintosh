@@ -1,1 +1,1 @@
-# NUC-S500-i9-10885H-Hackintosh
+# NUC-S500-i910885H-Hackintosh
