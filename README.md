@@ -1,6 +1,6 @@
 # NUC-S500-i910885H-Hackintosh
 
-Install macOS Ventura on NUC S500.
+Install macOS Ventura on [NUC S500(建议使用黑果小兵维护的EFI)](https://github.com/daliansky/morefine-S500-Hackintosh). 
 
 ![snapshot](docs/snapshot.png)
 
